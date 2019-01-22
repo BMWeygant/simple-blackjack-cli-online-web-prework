@@ -1,4 +1,3 @@
-require_relative 'runner.rb'
 require 'pry'
 
 def welcome
@@ -63,3 +62,4 @@ def runner
   end
   end_game(card_total)
 end
+runner
