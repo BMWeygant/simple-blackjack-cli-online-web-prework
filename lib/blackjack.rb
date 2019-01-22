@@ -1,4 +1,4 @@
-require_relative '..lib/runner.rb'
+require_relative 'runner.rb'
 require 'pry'
 
 def welcome
